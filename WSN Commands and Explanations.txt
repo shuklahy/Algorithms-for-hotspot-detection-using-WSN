@@ -1,0 +1,33 @@
+Device :
+1. Programming Board : MIB520CB
+2. Processor board : Micaz
+
+
+Installing MoteWorks Applications into a Mote:
+
+1.  make iris install mib520,com5
+
+2. make <platform> re|install,<n> <programmer>,<port>
+	install - compiles and downloads into node
+	reinstall - downloads precompiled file into node.
+	n - node id(optional)
+
+Setting the Group ID and Node Address for the Mote Network:
+
+The default group ID is 0x7d. You can set the group ID by defining the preprocessor symbol DEFAULT_LOCAL_GROUP in a MakeMemslocal file which is located in /MoteWorks/apps/ directory. Section 3.8 has information about how to edit a MakeMemslocal file. In addition, the message header carries the destination node number, which is a 16-bit value.
+
+IMPORTANT: Except for decimal numbers 126 (the TOS_UART_ADDR 0x007E) and 255 (the TOS_BCAST_ADDR 0xFFFF), all other values between 0 and 65535 are permissible. The number 0 is typically reserved for the base station Mote.
+
+eg:  make mica2 install,38 mib520,com3
+
+Automated Build Tools :
+build
+	higlights error msg and warning , similar  to make cmd.
+buildall
+	build of all app under that folder
+
+TinyOS Commands :
+
+gettos
+settos
+usetos

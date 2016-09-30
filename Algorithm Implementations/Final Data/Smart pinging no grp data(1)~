@@ -1,0 +1,949 @@
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2987
+POLL REPLY :
+ Node: 13, Temp: 34, Mean 33 volt 2837
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 3003
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3103
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3103
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3120
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2987
+POLL REPLY :
+ Node: 13, Temp: 35, Mean 33 volt 2837
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 3003
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3103
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3103
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3120
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2987
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3094
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3103
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3120
+POLL REPLY :
+ Node: 13, Temp: 35, Mean 33 volt 2830
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL N12:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2995
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 3011
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3094
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3103
+POLL N13:
+POLL REPLY :
+ Node: 13, Temp: 35, Mean 33 volt 2837
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3103
+POLL N11:
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2987
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 3019
+POLL REPLY :
+ Node: 13, Temp: 35, Mean 33 volt 2830
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3120
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3094
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2995
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 3011
+POLL REPLY :
+ Node: 13, Temp: 35, Mean 33 volt 2830
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3094
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3094
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3120
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3103
+POLL N10:
+POLL N11:
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2987
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 3011
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3094
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3111
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2987
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 3011
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3094
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3103
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3120
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2987
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 3011
+POLL REPLY :
+ Node: 13, Temp: 34, Mean 33 volt 2830
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3094
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3103
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3120
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL N12:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2987
+POLL N13:
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 2995
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3103
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3086
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3111
+POLL REPLY :
+ Node: 13, Temp: 34, Mean 33 volt 2830
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 2995
+POLL REPLY :
+ Node: 13, Temp: 34, Mean 33 volt 2837
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3086
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3094
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3111
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 13, Temp: 34, Mean 33 volt 2830
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3094
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3103
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3120
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 2987
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3094
+POLL N10:
+POLL N11:
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 2995
+POLL REPLY :
+ Node: 13, Temp: 34, Mean 33 volt 2830
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3086
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3111
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 3011
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3094
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3094
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3111
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 3011
+POLL REPLY :
+ Node: 13, Temp: 34, Mean 33 volt 2830
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3094
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3094
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3111
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 3011
+POLL REPLY :
+ Node: 13, Temp: 34, Mean 33 volt 2830
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3094
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3094
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3111
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 13, Temp: 34, Mean 33 volt 2830
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 2995
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3086
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3094
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3111
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 13, Temp: 34, Mean 33 volt 2830
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3094
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3094
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3111
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3094
+POLL N10:
+POLL N11:
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 13, Temp: 34, Mean 33 volt 2830
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 2995
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3077
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3111
+EM PING :
+ Node: 9, Temp: 33, Mean 0 volt 2972
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL N12:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2987
+POLL N13:
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 3011
+POLL REPLY :
+ Node: 13, Temp: 34, Mean 33 volt 2830
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3077
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3094
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3111
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL N12:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2979
+POLL N13:
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3086
+POLL REPLY :
+ Node: 11, Temp: 30, Mean 30 volt 2987
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3094
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3111
+POLL REPLY :
+ Node: 13, Temp: 34, Mean 33 volt 2823
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2979
+POLL REPLY :
+ Node: 13, Temp: 34, Mean 33 volt 2823
+POLL REPLY :
+ Node: 11, Temp: 30, Mean 30 volt 2987
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3086
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3103
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL N12:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2979
+POLL N13:
+POLL REPLY :
+ Node: 11, Temp: 30, Mean 30 volt 3003
+POLL REPLY :
+ Node: 13, Temp: 34, Mean 33 volt 2830
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3086
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3094
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3103
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2979
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 13, Temp: 34, Mean 33 volt 2823
+POLL REPLY :
+ Node: 11, Temp: 30, Mean 30 volt 2987
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3086
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3094
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3111
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL N12:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2979
+POLL N13:
+POLL REPLY :
+ Node: 13, Temp: 34, Mean 33 volt 2823
+POLL REPLY :
+ Node: 11, Temp: 30, Mean 30 volt 2987
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3086
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3094
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3103
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2972
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 11, Temp: 30, Mean 30 volt 2987
+POLL REPLY :
+ Node: 13, Temp: 35, Mean 33 volt 2823
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3086
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3094
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3111
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2972
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 11, Temp: 30, Mean 30 volt 2987
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3077
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3086
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3103
+POLL REPLY :
+ Node: 13, Temp: 35, Mean 33 volt 2823
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2972
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3086
+POLL REPLY :
+ Node: 11, Temp: 30, Mean 30 volt 2987
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3094
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3111
+POLL REPLY :
+ Node: 13, Temp: 35, Mean 33 volt 2823
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2979
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 13, Temp: 35, Mean 33 volt 2830
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 2987
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3077
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3086
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3103
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2979
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 3003
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3077
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3086
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3103
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2979
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 3003
+POLL REPLY :
+ Node: 13, Temp: 35, Mean 33 volt 2823
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3077
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3086
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3103
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 13, Temp: 35, Mean 33 volt 2823
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3086
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 2987
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3103
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3086
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2972
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2972
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 13, Temp: 35, Mean 33 volt 2830
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 2987
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3077
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3086
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3103
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3086
+POLL N10:
+POLL N11:
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2972
+POLL REPLY :
+ Node: 13, Temp: 35, Mean 33 volt 2823
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 2979
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3077
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3103
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2979
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3077
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3086
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3103
+POLL REPLY :
+ Node: 13, Temp: 35, Mean 33 volt 2823
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 13, Temp: 35, Mean 33 volt 2830
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 3003
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3077
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3086
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3103
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2972
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3086
+POLL N10:
+POLL N11:
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2972
+POLL REPLY :
+ Node: 13, Temp: 35, Mean 33 volt 2816
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3077
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 2979
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3094
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL N12:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2979
+POLL N13:
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 3003
+POLL REPLY :
+ Node: 13, Temp: 35, Mean 33 volt 2816
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3077
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3077
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3094
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2979
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 13, Temp: 35, Mean 33 volt 2830
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 2979
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3069
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3086
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3103
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL N12:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2979
+POLL N13:
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 2995
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3069
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3086
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3094
+POLL REPLY :
+ Node: 13, Temp: 35, Mean 33 volt 2823
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2979
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 13, Temp: 35, Mean 33 volt 2816
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3077
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 2979
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3086
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3103
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3069
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3086
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2972
+POLL REPLY :
+ Node: 13, Temp: 35, Mean 33 volt 2823
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 2972
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3103
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2979
+POLL REPLY :
+ Node: 11, Temp: 29, Mean 30 volt 2995
+POLL REPLY :
+ Node: 13, Temp: 35, Mean 33 volt 2816
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3069
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3086
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3094
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2972
+POLL N11:
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 11, Temp: 30, Mean 30 volt 2979
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3069
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3077
+POLL REPLY :
+ Node: 13, Temp: 35, Mean 33 volt 2816
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2972
+POLL REPLY :
+ Node: 13, Temp: 35, Mean 33 volt 2823
+POLL REPLY :
+ Node: 11, Temp: 30, Mean 30 volt 2995
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3077
+POLL REPLY :
+ Node: 8, Temp: 31, Mean 33 volt 3077
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3094
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3069
+POLL REPLY :
+ Node: 8, Temp: 32, Mean 33 volt 3086
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2964
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 13, Temp: 35, Mean 33 volt 2816
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3094
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL REPLY :
+ Node: 8, Temp: 32, Mean 33 volt 3077
+POLL N11:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2964
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 13, Temp: 35, Mean 33 volt 2816
+POLL REPLY :
+ Node: 11, Temp: 30, Mean 30 volt 2979
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3069
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3094
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3069
+POLL REPLY :
+ Node: 8, Temp: 32, Mean 33 volt 3077
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2964
+POLL REPLY :
+ Node: 13, Temp: 35, Mean 33 volt 2823
+POLL REPLY :
+ Node: 11, Temp: 30, Mean 30 volt 2979
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3094
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2972
+POLL REPLY :
+ Node: 11, Temp: 30, Mean 30 volt 2995
+POLL REPLY :
+ Node: 13, Temp: 35, Mean 33 volt 2816
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3069
+POLL REPLY :
+ Node: 8, Temp: 32, Mean 33 volt 3077
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3094
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2972
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 13, Temp: 35, Mean 33 volt 2823
+POLL REPLY :
+ Node: 11, Temp: 30, Mean 30 volt 2979
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3069
+POLL REPLY :
+ Node: 8, Temp: 32, Mean 33 volt 3077
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3094
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL N12:
+POLL REPLY :
+ Node: 8, Temp: 32, Mean 33 volt 3077
+POLL N13:
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3094
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2972
+POLL REPLY :
+ Node: 13, Temp: 35, Mean 33 volt 2816
+POLL REPLY :
+ Node: 11, Temp: 30, Mean 30 volt 2972
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3060
+TIMER FIRED
+POLL N8:
+POLL N9:
+POLL N10:
+POLL N11:
+POLL REPLY :
+ Node: 9, Temp: 33, Mean 33 volt 2972
+POLL N12:
+POLL N13:
+POLL REPLY :
+ Node: 11, Temp: 30, Mean 30 volt 2972
+POLL REPLY :
+ Node: 10, Temp: 33, Mean 33 volt 3069
+POLL REPLY :
+ Node: 8, Temp: 32, Mean 33 volt 3077
+POLL REPLY :
+ Node: 12, Temp: 34, Mean 33 volt 3094
+
