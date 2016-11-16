@@ -2,7 +2,7 @@
  
  This project conatins code for temperatur and voltage sensing, communicating them effectively via group of motes and reporting them to base station. This information can then be utilized for detecting hotspot in data centres and appropriate actions can be taken.
 
-## Wireless Sensor Network Mote Details (on which this algo was implemented)
+### Wireless Sensor Network Mote Details (on which this algo was implemented)
 * Programming Board: MIB520CB
 * Processor Board: MicaZ
 * Sensor Board: MTS400
